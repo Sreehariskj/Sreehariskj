@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🚀 About me
-    I am sreehari.I am a full stack developer.Now I am pursuming BBA
+    I am sreehari.I am a full stack developer.Now I am pursuming BBA final year.
 
 <!--
 **Sreehariskj/Sreehariskj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
